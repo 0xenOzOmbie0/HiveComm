@@ -8,9 +8,13 @@ class Message:
     def encode(self):
         # Implement efficient encoding logic here
         # Consider security and privacy aspects
+        # Ensure flexibility for different types of messages
+        # Include robust error handling mechanisms
         pass
 
     def decode(self):
         # Implement efficient decoding logic here
         # Consider security and privacy aspects
+        # Ensure flexibility for different types of messages
+        # Include robust error handling mechanisms
         pass
